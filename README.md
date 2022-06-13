@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SoyGeelances
 - 👀 I’m interested in technology, videogames, programming, music and animals.
 - 🌱 I’m currently learning javascript
+- 💻 https://vercel.com/geelances
 
 - 📫 How to reach me, you can find my website geelances.com or you can write to me geelances@gmail.com
 
